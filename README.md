@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- My name is Eren and I'm currently learning web development at The Odin Project. <br>
+ I'm Eren and I'm currently learning web development at The Odin Project. <br>
  I'm passionate about web development and I'm always eager to learn new technologies and stay up-to-date with industry trends. <br>
  feel free to contact with me to chat about web development.
  
