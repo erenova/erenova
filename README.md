@@ -7,7 +7,7 @@
  
  [![Gmail Badge](https://img.shields.io/badge/-erenova6@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:erenova6@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-eren%20kaya-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erenova/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@erenova0-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=erenova0 "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/-@erenova0-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/erenova0 "Follow on Twitter")
  
 # 🔧 Technologies & Tools
 
