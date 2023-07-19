@@ -13,19 +13,19 @@
 
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" target="_blank" >
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" target="_blank" >
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" target="_blank" >
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
-  <a href="https://getbootstrap.com/">
+  <a href="https://getbootstrap.com/" target="_blank" >
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
-  <a href="https://git-scm.com/doc">
+  <a href="https://git-scm.com/doc" target="_blank" >
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
 </p>
