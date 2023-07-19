@@ -11,16 +11,21 @@
  
 # 🔧 Technologies & Tools
 
-<p align="left"> 
- <a href="https://www.w3.org/html/" target="_blank"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" width="40" height="40" /> </a> 
-  <a href="https://www.google.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript" width="40" height="40" /> 
-    <a href="https://git-scm.com/" target="_blank" > 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  <a href="https://git-scm.com/doc">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
 </p>
