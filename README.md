@@ -28,4 +28,7 @@
   <a href="https://git-scm.com/doc" target="_blank" >
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
+   <a href="https://webpack.js.org/" target="_blank" >
+    <img src="https://skillicons.dev/icons?i=webpack&theme=light"/>
+  </a>
 </p>
