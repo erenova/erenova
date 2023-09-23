@@ -29,6 +29,6 @@
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
    <a href="https://webpack.js.org/" target="_blank" >
-    <img src="https://skillicons.dev/icons?i=webpack&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=webpack&theme=dark"/>
   </a>
 </p>
