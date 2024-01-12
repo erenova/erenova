@@ -13,7 +13,7 @@
 
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" target="_blank" >
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" target="_blank" style="display:flex; flex-direction:row;">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" target="_blank" >
@@ -21,6 +21,9 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" target="_blank" >
     <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+   <a href="https://tailwindcss.com/" target="_blank" >
+    <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
   <a href="https://getbootstrap.com/" target="_blank" >
     <img src="https://skillicons.dev/icons?i=bootstrap" />
