@@ -22,6 +22,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" target="_blank" >
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
+   <a href="https://react.dev/" target="_blank" >
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
    <a href="https://tailwindcss.com/" target="_blank" >
     <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
