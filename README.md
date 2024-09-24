@@ -1,16 +1,12 @@
 ### Hi there 👋
 
- I'm Eren and I'm currently learning web development at The Odin Project. <br>
- I'm passionate about Front-end & Back-end and I'm always eager to learn new technologies and stay up-to-date with industry trends. <br>
- feel free to contact with me to chat about web development.
- 
- 
- [![Gmail Badge](https://img.shields.io/badge/-erenova6@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:erenova6@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-eren%20kaya-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erenova/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@erenova0-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/erenova0 "Follow on Twitter")
- 
-# 🔧 Technologies & Tools
+I'm Eren, and I'm currently learning web development at The Odin Project.  
+I’m passionate about both front-end and back-end development, and I love exploring new technologies. If you'd like to chat about web development or anything else, feel free to reach out! You can contact me on Discord at @erenova.
 
+[![Gmail Badge](https://img.shields.io/badge/-erenova6@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:erenova6@gmail.com "Connect via Email")  
+[![Linkedin Badge](https://img.shields.io/badge/-eren%20kaya-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erenova/ "Connect on LinkedIn")  
+
+# 🔧 Technologies & Tools
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html" />
