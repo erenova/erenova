@@ -12,13 +12,13 @@ Contact me on **Discord** at ```@erenova```
 # 🔧 Technologies & Tools
 
 <p align="left">
-    <a href="https://github.com/erenova"> <img src="https://skillicons.dev/icons?i=html" /> </a>
-    <a href="https://github.com/erenova"> <img src="https://skillicons.dev/icons?i=css" /></a>
-    <a href="https://github.com/erenova"> <img src="https://skillicons.dev/icons?i=js" /></a>
-    <a href="https://github.com/erenova"> <img src="https://skillicons.dev/icons?i=react" /></a>
-    <a href="https://github.com/erenova"> <img src="https://skillicons.dev/icons?i=tailwind" /></a>
-    <a href="https://github.com/erenova"> <img src="https://skillicons.dev/icons?i=bootstrap" /></a>
-    <a href="https://github.com/erenova"> <img src="https://skillicons.dev/icons?i=git" /></a>
-    <a href="https://github.com/erenova"> <img src="https://skillicons.dev/icons?i=webpack"/></a>
-    <a href="https://github.com/erenova"> <img src="https://skillicons.dev/icons?i=vite"/></a>
+    <a href="https://github.com/erenova"> <img src="https://skillicons.dev/icons?i=html" /> 
+     <img src="https://skillicons.dev/icons?i=css" />
+     <img src="https://skillicons.dev/icons?i=js" />
+     <img src="https://skillicons.dev/icons?i=react" />
+     <img src="https://skillicons.dev/icons?i=tailwind" />
+     <img src="https://skillicons.dev/icons?i=bootstrap" />
+     <img src="https://skillicons.dev/icons?i=git" />
+     <img src="https://skillicons.dev/icons?i=webpack" />
+     <img src="https://skillicons.dev/icons?i=vite"/> </a>
 </p>
