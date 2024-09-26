@@ -1,4 +1,4 @@
-<div align="center"><h2> Hi there 👋
+<div align="center"><h2 align="start"> Hi there 👋
 </h2>
 I'm Eren, and I'm currently learning web development at The Odin Project.  
 I’m passionate about both front-end and back-end development, and I love exploring new technologies.  
