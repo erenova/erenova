@@ -1,8 +1,9 @@
 <div align="center"><h2 align="start"> Hi there 👋
 </h2>
-I'm Eren, and I'm currently learning web development at The Odin Project.  
-I’m passionate about both front-end and back-end development, and I love exploring new technologies.  
-If you'd like to chat about <b>web development</b> or anything else, feel free to reach out!  
+<div>I'm Eren, and I'm currently deepening my knowledge in web development through The Odin Project.</div>
+<div>I’m passionate about front-end and back-end development, with a focus on mastering full-stack technologies. </div>
+<div>I love exploring new frameworks and tools to enhance user experiences and optimize performance.</div>
+<div>If you'd like to chat about web development or anything else, feel free to reach out!</div>
 
 Contact me on Discord at ```@erenova```
 ---
