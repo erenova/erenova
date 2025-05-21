@@ -32,7 +32,7 @@
 ### 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,postgres,git,webpack,vite,strapi&theme=dark" alt="Technologies and Tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,postgres,prisma,supabase,git,webpack,vite,strapi&theme=dark" alt="Technologies and Tools" />
 </p>
 
 ---
