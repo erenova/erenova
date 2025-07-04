@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there%20Im%20Eren&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20Frontend%20Backend%20Enthusiast&descAlignY=55&descSize=20)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there%20Im%20Eren&fontSize=50&fontColor=50C878&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20Frontend%20Backend%20Enthusiast&descAlignY=55&descSize=20)
   
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=700&height=80&lines=Passionate+Full-Stack+Developer+💻;Turning+ideas+into+digital+reality+🚀;Always+learning%2C+always+building+🌱;Open+to+collaboration+%26+opportunities+🤝" alt="Typing SVG" />
